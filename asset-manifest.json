@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/delicious.github.io/static/css/main.14b9066d.css",
-    "main.js": "/delicious.github.io/static/js/main.fe05dc86.js",
+    "main.js": "/delicious.github.io/static/js/main.f3176100.js",
     "index.html": "/delicious.github.io/index.html",
     "main.14b9066d.css.map": "/delicious.github.io/static/css/main.14b9066d.css.map",
-    "main.fe05dc86.js.map": "/delicious.github.io/static/js/main.fe05dc86.js.map"
+    "main.f3176100.js.map": "/delicious.github.io/static/js/main.f3176100.js.map"
   },
   "entrypoints": [
     "static/css/main.14b9066d.css",
-    "static/js/main.fe05dc86.js"
+    "static/js/main.f3176100.js"
   ]
 }
