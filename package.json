@@ -2,7 +2,7 @@
   "name": "delicious",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aysha-mohamed.github.io/delicious.github.io/",
+  "homepage": "https://aysha-mohamed.github.io/delicious/",
   "dependencies": {
     "@splidejs/react-splide": "^0.7.12",
     "@testing-library/jest-dom": "^5.16.5",
